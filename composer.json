@@ -1,0 +1,19 @@
+{
+    "name": "alexisgeneau/polyvel",
+    "description": "Install Polymer into Laravel application",
+    "license": "MIT",
+    "authors": [
+    {
+        "name": "Alexis Geneau",
+        "email": "contact@alexis-geneau.fr"
+    }
+    ],
+    "require": {
+
+        },
+        "autoload": {
+            "psr-4": {
+                "Alexisgeneau\\Polyvel\\": "src/"
+          }
+      }
+  }
